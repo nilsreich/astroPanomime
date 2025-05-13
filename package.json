@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "astro-panomime",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -17,7 +17,10 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "sharp": "^0.34.1",
-    "tailwindcss": "^4.1.6"
+    "sharp-cli": "^5.1.0",
+    "tailwindcss": "^4.1.6",
+    "vite-plugin-pwa": "^1.0.0",
+    "workbox-window": "^7.3.0"
   },
   "devDependencies": {
     "@vite-pwa/astro": "^1.1.0"
